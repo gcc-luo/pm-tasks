@@ -4,5 +4,6 @@
 |---|---|---|---|---|---|---|
 | [示例产品功能](example-feature.md) | active | P2 | 1 | 0 | 0 | 1 |
 | [搜索](search.md) | active | P1 | 1 | 0 | 1 | 0 |
+| [个人智能体 v2.0](agent-v2.md) | active | P1 | 1 | 0 | 1 | 0 |
 
 [← 返回首页](../README.md)
