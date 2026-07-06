@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "owner": "gcc-luo",
+    "generated_by": "hermes-taskboard-agent",
+    "schema_version": 1
+  },
+  "features": [
+    {
+      "id": "example-feature",
+      "name": "示例产品功能",
+      "description": "这是一个占位示例，删除或替换即可。",
+      "status": "active",
+      "priority": "P2"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T-0001",
+      "feature_id": "example-feature",
+      "title": "配置 taskboard agent 并跑通首日流程",
+      "description": "验证 agent 能读写 tasks.json、渲染 md、推送到 GitHub。",
+      "status": "done",
+      "priority": "P1",
+      "owner": "gcc-luo",
+      "created_at": "2026-07-06",
+      "due_date": null,
+      "completed_at": "2026-07-06",
+      "tags": ["setup"],
+      "notes": "由 Hermes 自动创建。"
+    }
+  ]
+}
