@@ -11,6 +11,13 @@
       "description": "这是一个占位示例，删除或替换即可。",
       "status": "active",
       "priority": "P2"
+    },
+    {
+      "id": "search",
+      "name": "搜索",
+      "description": "",
+      "status": "active",
+      "priority": "P1"
     }
   ],
   "tasks": [
@@ -25,8 +32,24 @@
       "created_at": "2026-07-06",
       "due_date": null,
       "completed_at": "2026-07-06",
-      "tags": ["setup"],
+      "tags": [
+        "setup"
+      ],
       "notes": "由 Hermes 自动创建。"
+    },
+    {
+      "id": "T-0002",
+      "feature_id": "search",
+      "title": "全文搜索",
+      "description": "",
+      "status": "todo",
+      "priority": "P1",
+      "owner": "gcc-luo",
+      "created_at": "2026-07-06",
+      "due_date": null,
+      "completed_at": null,
+      "tags": [],
+      "notes": ""
     }
   ]
 }
